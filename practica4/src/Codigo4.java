@@ -1,4 +1,6 @@
 import java.util.Scanner;
+//El código es el juego de papel, piedra y tijera. Con el uso de switch vas determinado los casos 
+//posibles en que puede ganar el jugador 1 o si es empate, y sino el ganador es el jugador 2
 
 public class Codigo4 {
 
